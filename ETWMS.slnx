@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ETWMS.Application/ETWMS.Application.csproj" />
+  <Project Path="ETWMS.Domain.Entities/ETWMS.Domain.Entities.csproj" Id="ada67507-e4fa-4d7e-9e6b-fa8d4b17544b" />
   <Project Path="ETWMS.Domain.Enums/ETWMS.Domain.Enums.csproj" Id="f3c36702-3022-4ab3-8526-0dba110df7ca" />
   <Project Path="ETWMS.Domain.ValueObjects/ETWMS.Domain.ValueObjects.csproj" Id="0dbff47f-af46-4c6f-bfdb-e68650c82055" />
   <Project Path="ETWMS.Domain/ETWMS.Domain.csproj" />
