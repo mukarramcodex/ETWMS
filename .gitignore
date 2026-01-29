@@ -1,0 +1,60 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+# Build Folders
+bin/
+obj/
+out/
+
+# Visual Studio / Rider / VS Code files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pidb
+*.ide
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+# Uncomment if you have a global packages folder
+# ~/.nuget/packages/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Core
+wwwroot/lib/
+*.log
+
+# IIS
+IISExpress/
+*.vspscc
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Entity Framework Core Migrations
+Migrations/
+
+# User-specific files
+*.local
+*.env
+*.userprefs
+
+# Others
+*.dbmdl
+*.bak
+*.backup
+/.vs
